@@ -1,0 +1,4 @@
+rencana belajar lain:
+-php 
+-js
+-codeigneter
