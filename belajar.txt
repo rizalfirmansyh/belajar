@@ -1,6 +1,6 @@
 Belajar
 -belajar html
--belajar css
 -belajar python
 -belajar django
 -belajar github
+-belajar js
