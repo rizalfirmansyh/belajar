@@ -1,6 +1,3 @@
 rencana belajar lain:
--php 
-  *php dasar
-  *php lanjutan
 -js
 -codeigneter
